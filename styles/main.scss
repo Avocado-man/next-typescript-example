@@ -1,0 +1,7 @@
+@import './variables/variables';
+@import './fonts/gilroy.scss';
+@import './fonts/montserrat.scss';
+
+body {
+  font-family: $font-family-gilroy;
+}
